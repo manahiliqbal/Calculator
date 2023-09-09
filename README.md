@@ -1,2 +1,2 @@
 # Calculator
-Basic calculator using python3 with a GUI made with tkinter
+Basic calculator using python with a GUI made with tkinter
